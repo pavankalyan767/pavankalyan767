@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pavankalyan767_" target="blank"><img src="https://img.shields.io/twitter/follow/pavankalyan767_?logo=twitter&style=for-the-badge" alt="pavankalyan767_" /></a> </p>
 
-- 🔭 I’m currently working on **a prediction market app in Go — real-time event-based trading with custom pricing logic and a scalable PostgreSQL-backed backend.**
+
 
 - 🌱 I’m currently learning **Devops**
 
