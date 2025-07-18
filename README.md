@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on projects using golang , learning **Devops**, **AI-Agents**
 
-👯 I'm eager to collaborate on projects, with a strong interest in backend development and real-time applications. I'm open to exploring other exciting opportunities too!
+- 👯 I'm eager to collaborate on projects, with a strong interest in backend development. I'm open to exploring other exciting opportunities too!
 
 - 📫 How to reach me **pavankalyans1076@gmail.com**
 
