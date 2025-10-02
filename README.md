@@ -27,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankalyan767&show_icons=true&locale=en" alt="pavankalyan767" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankalyan767&" alt="pavankalyan767" /></p>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/pavankalyan767)](https://leetcode.com/pavankalyan767)
+<img src="https://leetcard.jacoblin.cool/pavankalyan767" alt="LeetCode Stats" />
+
