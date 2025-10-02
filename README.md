@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankalyan767&show_icons=true&locale=en" alt="pavankalyan767" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankalyan767&" alt="pavankalyan767" /></p>
-<img src="https://leetcard.jacoblin.cool/pavankalyan767" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/pavankalyan767?theme=light&font=Tiro%20Kannada&ext=heatmap" alt="LeetCode Stats" />
 
